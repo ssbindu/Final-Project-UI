@@ -50,16 +50,29 @@ HTML, CSS, Bootstrap
 3.2) **Backend:** 
 MongoDB schema.
 
+### 4.  ** Future Implementations: **
+I want to add log out, edit account, delete account, edit post, follow and unfollow option in my project in future.  
 
-### 4.  **ER Diagram:**
+
+### 5.  **ER Diagram:**
 
 ![ERD](https://user-images.githubusercontent.com/103986892/177911721-99bd00f7-4f70-48a2-800a-898dcc9c2aef.png)
 
 
-### 5 .  ** How to execute the project:**
+### 6 .  ** How to execute the project:**
     -	Download the Code.
     -	Open the folder in Visual Studio Code or whatever you use.
     -	Create a .env file and put your database password in that.
-    -	Run the code with **npm run dev** command.
+    -	Run the code with npm run dev command.
+    
+  If you only see the output, you can visit this Heroku link. 
+ 
+ https://ssbinduapp.herokuapp.com/
+ 
+ 
+  ### 7. **Issues to Look Out For:**
+  Basically yhis project full fill my requirements. But I want to make it look better also  must add log out .
+  
+ 
 
 
