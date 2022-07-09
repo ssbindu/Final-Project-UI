@@ -21,6 +21,15 @@ This is a simple page. After this page you can go to your profile page. Here you
 
 ![2](https://user-images.githubusercontent.com/103986892/178085870-ed2c6986-1f1f-471f-85c3-bd5c4ecfc13c.png)
 
+### 2.2) **Profile Page:**
+In this page, on the top you can see a welcome note with your username. Here you will find a form where you can write your post. After posting, your posts will come on a row on this page.
+
+
+![3](https://user-images.githubusercontent.com/103986892/178086025-e19bf959-e6b2-4a6b-b62d-70a9b1ba3993.png)
+
+![4](https://user-images.githubusercontent.com/103986892/178086043-161d968c-9c47-4a6c-8f5c-474cfc03265c.png)
+
+
 ER Diagram: 
 
 ![ERD](https://user-images.githubusercontent.com/103986892/177911721-99bd00f7-4f70-48a2-800a-898dcc9c2aef.png)
