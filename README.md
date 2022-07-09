@@ -3,11 +3,11 @@
 ### 2. Project Description:
 Hello! This is Shithi Sharma Bindu. Welcome to the description of my very first React App.  Basically, my application is a simple social media application where one user can post content and delete the content. In this file I have tried to explain what I have done in this project.
 Features provided: 
-- 	Registration Page
-- 	Login Page
--	  Profile Page
-- 	Post Content
--	  Post Delete
+- Registration Page
+- Login Page
+- Profile Page
+- Post Content
+- Post Delete
 
 ### 2.1) **Registration Page:**
 This page will ask for your information like Username, Email id, Password, Date of Birth. After filling all this you can submit your information, and it will directly take you to the login page. But if you are already registered, you can directly go to the Log in page by clicking Log in HERE. If you try to register with same email id but with different other information, it will not let you to register.
