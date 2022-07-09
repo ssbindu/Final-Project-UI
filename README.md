@@ -5,9 +5,9 @@ Hello! This is Shithi Sharma Bindu. Welcome to the description of my very first 
 Features provided: 
 - 	Registration Page
 - 	Login Page
--	Profile Page
+-	  Profile Page
 - 	Post Content
--	Delete Content
+-	  Delete Content
 
 ### 2.1) **Registration Page:**
 This page will ask for your information like Username, Email id, Password, Date of Birth. After filling all this you can submit your information, and it will directly take you to the login page. But if you are already registered, you can directly go to the Log in page by clicking Log in HERE. If you try to register with same email id but with different other information, it will not let you to register.
@@ -21,13 +21,21 @@ This is a simple page. After this page you can go to your profile page. Here you
 
 ![2](https://user-images.githubusercontent.com/103986892/178085870-ed2c6986-1f1f-471f-85c3-bd5c4ecfc13c.png)
 
-### 2.2) **Profile Page:**
+### 2.3) **Profile Page:**
 In this page, on the top you can see a welcome note with your username. Here you will find a form where you can write your post. After posting, your posts will come on a row on this page.
 
 
 ![3](https://user-images.githubusercontent.com/103986892/178086025-e19bf959-e6b2-4a6b-b62d-70a9b1ba3993.png)
 
 ![4](https://user-images.githubusercontent.com/103986892/178086043-161d968c-9c47-4a6c-8f5c-474cfc03265c.png)
+
+### 2.4) **Post Content:**
+In the form you can write your content. But for that, you must have to give one post title and your content. You will not be able to post anything if anything is missing from these two. Your posts will come one by one on your profile page.
+
+![5](https://user-images.githubusercontent.com/103986892/178086174-21d0af05-8f56-459a-9da3-5351a821819f.png)
+
+
+![6](https://user-images.githubusercontent.com/103986892/178086197-e3df0319-956c-4811-85a0-6b74244d7e3d.png)
 
 
 ER Diagram: 
