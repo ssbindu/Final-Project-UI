@@ -60,6 +60,6 @@ MongoDB schema.
     -	Download the Code.
     -	Open the folder in Visual Studio Code or whatever you use.
     -	Create a .env file and put your database password in that.
-    -	Run the code with *** npm run dev *** command.
+    -	Run the code with **npm run dev** command.
 
 
