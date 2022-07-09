@@ -38,11 +38,16 @@ In the form you can write your content. But for that, you must have to give one 
 ![6](https://user-images.githubusercontent.com/103986892/178086197-e3df0319-956c-4811-85a0-6b74244d7e3d.png)
 
 
-### 2.4) **Post Delete:**
+### 2.5) **Post Delete:**
 On your profile page, you will see your posts. Beside your post content, you will see a delete button. By clicking on that, you can delete your post .
 
 ![7](https://user-images.githubusercontent.com/103986892/178086351-ace4089a-af44-4ed3-936b-66727fdfcfb5.png)
 
+### 3. **Technologies I used for this project are:**
+3.1) **Frontend:** 
+HTML, CSS, Bootstrap
+3.2) **Backend:** 
+MongoDB schema.
 
 
 
