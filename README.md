@@ -1,4 +1,4 @@
-#Project Title: A Social Media App
+# Project Title: A Social Media App
 
 ER Diagram: 
 
