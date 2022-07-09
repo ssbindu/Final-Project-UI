@@ -46,11 +46,20 @@ On your profile page, you will see your posts. Beside your post content, you wil
 ### 3. **Technologies I used for this project are:**
 3.1) **Frontend:** 
 HTML, CSS, Bootstrap
+
 3.2) **Backend:** 
 MongoDB schema.
 
 
-
-ER Diagram: 
+### 4.  **ER Diagram:**
 
 ![ERD](https://user-images.githubusercontent.com/103986892/177911721-99bd00f7-4f70-48a2-800a-898dcc9c2aef.png)
+
+
+### 5 .  ** How to execute the project:**
+    -	Download the Code.
+    -	Open the folder in Visual Studio Code or whatever you use.
+    -	Create a .env file and put your database password in that.
+    -	Run the code with *** npm run dev *** command.
+
+
