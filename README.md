@@ -15,6 +15,11 @@ This page will ask for your information like Username, Email id, Password, Date 
 
 ![Screenshot 2022-07-08 203436](https://user-images.githubusercontent.com/103986892/178085794-1d48c379-7ffa-46ea-8382-4b8ee124cb40.png)
 
+### 2.2) **Login Page:** 
+This is a simple page. After this page you can go to your profile page. Here you can log in with user name and password what you have given while registering. If you put wrong  user name or password , it will not let you log in. 
+
+
+![2](https://user-images.githubusercontent.com/103986892/178085870-ed2c6986-1f1f-471f-85c3-bd5c4ecfc13c.png)
 
 ER Diagram: 
 
